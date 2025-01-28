@@ -1,0 +1,9 @@
+# Ignore o diretório do ambiente virtual
+venv/
+
+# Outros padrões úteis para projetos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
